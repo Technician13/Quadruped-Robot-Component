@@ -1,14 +1,17 @@
-# QuadrupedFootEndTrajectory
-## Foot End Trajectory of Quadruped Robot
+# Quadruped - FootendTraj - Animation
+## Footend Trajectory of Quadruped Robot
 * The code in this repository provides stop-motion animation of foot trajectory in sagittal plane of quadruped robots.     
 * If you want to deploy it in your project, you can change the corresponding variables in the code according to the mechanical structure parameters of your robot. 
 * Where, the code of the inverse kinematics solution is as follows:      
-[https://github.com/Technician13/QuadrupedInverseKinematic](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20InverseKinematic)
+[https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20InverseKinematic](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20InverseKinematic)       
+* Run ` main.m `  
 
-![images](https://github.com/Technician13/QuadrupedFootEndTrajectory/raw/master/untitled.jpg?raw=true)          
+<div align=center>
+ <img src="https://github.com/Technician13/Quadruped/blob/master/Quadruped%20-%20FootendTraj-Animation/images/result.png"/>       
+</div>
 
-
-
+    
+    
 # QuadrupedForwardKinematic
 ## Forward Kinematic of Quadruped Robot Leg
 * The code in this repository provides a set of console version of the quadruped robot forward kinematic algorithm. Through the interaction with the console, the quadruped robot forward kinematic algorithm can be easily understood. The following shows some parameters and definition of coordinate system in the code.

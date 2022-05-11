@@ -7,7 +7,7 @@
 * Run ` main.m `  
 
 <div align=center>
- <img src="https://github.com/Technician13/Quadruped/blob/master/Quadruped%20-%20FootendTraj-Animation/images/result.png"/>       
+ <img src="https://github.com/Technician13/Quadruped/blob/master/Quadruped%20-%20FootendTraj-Animation/images/result.png" width="560" height="420"/>       
 </div>
 
     

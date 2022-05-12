@@ -1,4 +1,4 @@
-# [Quadruped - FootendTraj - Animation](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20FootendTraj-Animation)
+# [Quadruped - FootendTraj - Animation](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20FootendTraj%20-%20Animation)
 ## Footend Trajectory of Quadruped Robot
 * The code in this repository provides stop-motion animation of foot trajectory in sagittal plane of quadruped robots.     
 * If you want to deploy it in your project, you can change the corresponding variables in the code according to the mechanical structure parameters of your robot. 
@@ -6,7 +6,7 @@
 [https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20InverseKinematic](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20InverseKinematic)       
 * Run ` main.m `  
 <div align=center>
- <img src="https://github.com/Technician13/Quadruped/blob/master/Quadruped%20-%20FootendTraj-Animation/images/result.png" width="560" height="420"/>       
+ <img src="https://github.com/Technician13/Quadruped/blob/master/Quadruped%20-%20FootendTraj%20-%20Animation/images/result.png" width="560" height="420"/>       
 </div>
 
     
@@ -62,7 +62,10 @@
  
 # [Quadruped - Cheetah1FootendTraj - Recurrence](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20Cheetah1FootendTraj%20-%20Recurrence)
 ## The algorithm in paper 《Implementation of trot-to-gallop transition and subsequent gallop on the MIT Cheetah I》 is recurrented
-* Run ` Cheetah1_foot_traj.m `  
+* Run ` Cheetah1_foot_traj.m `       
+<div align=center>
+ <img width="455" height="343" src="Quadruped%20-%20Cheetah1FootendTraj%20-%20Recurrence/images/result.gif">       
+</div> 
  
  
  

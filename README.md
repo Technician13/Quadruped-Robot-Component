@@ -76,3 +76,11 @@
  <img width="455" height="343" src="Quadruped%20-%20WalkMoveCoG/images/result.gif">       
 </div>
 
+ 
+ 
+# [Quadruped - GridmapFootdropSearch](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20GridmapFootdropSearch)
+## Search of quadruped robot's footdrop under gridmap
+* Run `main.m `
+<div align=center>
+ <img width="724" height="400" src="Quadruped%20-%20GridmapFootdropSearch/images/result.gif">       
+</div>

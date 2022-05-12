@@ -63,3 +63,13 @@
 # [Quadruped - Cheetah1FootendTraj - Recurrence](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20Cheetah1FootendTraj%20-%20Recurrence)
 ## The algorithm in paper 《Implementation of trot-to-gallop transition and subsequent gallop on the MIT Cheetah I》 is recurrented
 * Run ` Cheetah1_foot_traj.m `  
+ 
+ 
+ 
+# [Quadruped - WalkMoveCoG](https://github.com/Technician13/Quadruped/tree/master/Quadruped%20-%20WalkMoveCoG)
+## Center of gravity movement strategy under walk gait
+* Run ` WalkOffset.m `  or ` WalkOffset_3.m `
+<div align=center>
+ <img width="455" height="343" src="Quadruped%20-%20WalkMoveCoG/images/result.gif">       
+</div>
+
